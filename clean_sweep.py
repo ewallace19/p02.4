@@ -29,5 +29,4 @@ def run_tests():
 
 
 def clean(nums, n):
-
-
+    

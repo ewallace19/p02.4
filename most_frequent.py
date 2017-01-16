@@ -30,5 +30,8 @@ def run_tests():
 
 
 def mode(nums, a, b):
+    if a in nums or b in nums:
+        
+    
 
 
